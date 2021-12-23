@@ -1,0 +1,2 @@
+# myNotes
+personal study notes
